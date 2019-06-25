@@ -36,9 +36,8 @@ username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
 user_title: Anon Developer
 email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+twitter_username: SiriusCrain
+github_username:  SiriusCrain
 ```
 
 **Don't forget to change your url before you deploy your site!**
